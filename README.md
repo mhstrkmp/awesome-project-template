@@ -1,1 +1,1 @@
-# awesome-project-template
+# 😎 Awesome Project Template 😎
