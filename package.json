@@ -30,7 +30,8 @@
     "server": "nodemon server.js",
     "client": "cd client && npm start",
     "dev": "concurrently \"npm run server\" \"npm run client\"",
-    "build": "cd client && npm run build && npm run build-storybook"
+    "build": "cd client && npm run build && npm run build-storybook",
+    "postinstall": "cd client && npm install"
   },
   "repository": {
     "type": "git",
