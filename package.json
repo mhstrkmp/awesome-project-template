@@ -31,6 +31,7 @@
     "lint": "eslint . --ext .js",
     "prettier": "prettier --check \"**/*.{js,jsx,ts,tsx,md,mdx,html,css,json}\"",
     "prettify": "prettier --write .",
+    "test:watch": "cd client && npm run test:watch",
     "test": "npm run lint && npm run prettier && cd client && npm test",
     "start": "node server.js",
     "server": "nodemon server.js",
