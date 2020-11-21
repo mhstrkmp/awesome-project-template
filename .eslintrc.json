@@ -9,7 +9,6 @@
     "react-app",
     "eslint:recommended",
     "plugin:react/recommended",
-    "plugin:mdx/recommended",
     "prettier"
   ],
   "parserOptions": {
