@@ -18,12 +18,18 @@
     "ecmaVersion": 12,
     "sourceType": "module"
   },
+  "settings": {
+    "react": {
+      "version": "latest"
+    }
+  },
   "rules": {
-    "react/react-in-jsx-scope": "off",
-    "react/no-unescaped-entities": "warn",
     "no-unused-vars": [
       "warn",
       { "vars": "all", "args": "all", "ignoreRestSiblings": true }
-    ]
+    ],
+    "react/react-in-jsx-scope": "off",
+    "react/no-unescaped-entities": "warn",
+    "import/no-anonymous-default-export": "off"
   }
 }
