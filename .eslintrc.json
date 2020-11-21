@@ -20,6 +20,10 @@
   },
   "rules": {
     "react/react-in-jsx-scope": "off",
-    "react/no-unescaped-entities": "warn"
+    "react/no-unescaped-entities": "warn",
+    "no-unused-vars": [
+      "warn",
+      { "vars": "all", "args": "all", "ignoreRestSiblings": true }
+    ]
   }
 }
