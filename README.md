@@ -1,5 +1,3 @@
-![Node.js CI](https://github.com/mhstrkmp/awesome-project-template/workflows/Node.js%20CI/badge.svg)
-
 # 😎 Awesome Project Template 😎
 
 ## Getting Started
