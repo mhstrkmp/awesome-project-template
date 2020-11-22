@@ -1,3 +1,5 @@
+![Node.js CI](https://github.com/mhstrkmp/awesome-project-template/workflows/Node.js%20CI/badge.svg)
+
 # 😎 Awesome Project Template 😎
 
 ## Getting Started
@@ -46,3 +48,5 @@ Configuration is optimized for deployment with Heroku. If you want to deploy thi
 ### Learn More
 
 ### Credits
+
+This project is inspired by [cra-with-api](https://github.com/lmachens/cra-with-api)
