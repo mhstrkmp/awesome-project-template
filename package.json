@@ -53,8 +53,7 @@
   "homepage": "https://github.com/mhstrkmp/awesome-project-template#readme",
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged",
-      "pre-push": "git pull"
+      "pre-commit": "lint-staged"
     }
   },
   "lint-staged": {
