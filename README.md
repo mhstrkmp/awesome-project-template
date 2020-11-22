@@ -6,9 +6,17 @@
 
 In the project directory, you can run:
 
-#### `npm start`
+#### `npm run start`
 
-#### `npm test`
+#### `npm run server`
+
+#### `npm run client`
+
+#### `npm run storybook`
+
+#### `npm run dev`
+
+#### `npm run test`
 
 #### `npm run build`
 
